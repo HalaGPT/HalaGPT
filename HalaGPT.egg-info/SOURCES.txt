@@ -1,0 +1,8 @@
+HalaGPT.py
+README.md
+setup.py
+HalaGPT.egg-info/PKG-INFO
+HalaGPT.egg-info/SOURCES.txt
+HalaGPT.egg-info/dependency_links.txt
+HalaGPT.egg-info/requires.txt
+HalaGPT.egg-info/top_level.txt
