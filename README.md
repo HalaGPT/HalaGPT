@@ -23,14 +23,11 @@ Install HalaGPT via GitHub:
 git clone https://github.com/HalaGPT/HalaGPT.git
 ```
 
-
----
-
 Features and Modules
 
 HalaGPT provides a rich set of AI modules to cover many use cases. All classes are imported in lowercase for consistency:
 
-from HalaGPT import voice, image, blackbox, deepinfra, gpt, wormgpt, gemini, chat, deepseek
+> from HalaGPT import voice, image, blackbox, deepinfra, gpt, wormgpt, gemini, chat, deepseek
 
 1. Voice
 
